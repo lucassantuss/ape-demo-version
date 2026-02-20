@@ -1,29 +1,24 @@
-<h1 align="center" style="font-weight: bold;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Person Lifting Weights Light Skin Tone" width="25" height="25" /> TCC <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Person Lifting Weights Light Skin Tone" width="25" height="25" /></h1>
+<h1 align="center" style="font-weight: bold;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Person Lifting Weights Light Skin Tone" width="25" height="25" /> APE Demo Version <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Person Lifting Weights Light Skin Tone" width="25" height="25" /></h1>
 
 <p align="center">
- <a href="#tech">Tecnologias Usadas</a> • 
- <a href="#colab">Integrantes do Grupo</a> •
- <a href="#license">Licença</a>
-</p>
-<p align="center">
- <a href="docs/apoio">Apoio</a> • 
- <a href="docs/documentação">Documentação</a> •
- <a href="docs/links">Links</a>
+ <a href="#tech">Technologies</a> • 
+ <a href="#colab">Collaborators</a> •
+ <a href="#license">License</a>
 </p>
 
 <p align="center">
-    <b>Projeto de TCC de Engenharia de Computação na Faculdade Engenheiro Salvador Arena</b>
+    <b>Final Course Project (TCC) in Computer Engineering at Faculdade Engenheiro Salvador Arena</b>
 </p>
 
 <p align="center">
-     <a href="https://lucassantuss.github.io/ape-demo-version/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" alt="Mobile Phone with Arrow" width="20" height="20" /> Visite o Site</a>
+     <a href="https://lucassantuss.github.io/ape-demo-version/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" alt="Mobile Phone with Arrow" width="20" height="20" /> Visit this Project</a>
 </p>
 
-<h2 id="tech">💻 Tecnologias Usadas</h2>
+<h2 id="tech">💻 Technologies</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,cs,dotnet,html,js,css,azure,vercel,visualstudio,vscode,figma)](https://skillicons.dev)
 
-<h2 id="colab">🤝 Integrantes do Grupo</h2>
+<h2 id="colab">🤝 Collaborators</h2>
 
 <table>
   <tr>
@@ -51,24 +46,17 @@
           <b>Renan Cesar</b>
       </a>
     </td>
-  </tr>
-</table>
-
-<h2 id="colab">👨‍💻 Orientador</h2>
-
-<table>
-  <tr>
     <td align="center">
-      <a href="https://github.com/gabrielbaptista">
-        <img src="https://github.com/gabrielbaptista.png" width="100px;" alt="Gabriel Profile Picture"/><br>
-          <b>Gabriel Lara</b>
-      </a>
+       <a href="https://github.com/gabrielbaptista">
+         <img src="https://github.com/gabrielbaptista.png" width="100px;" alt="Gabriel Profile Picture"/><br>
+           <b>Gabriel Lara</b>
+       </a>
     </td>
   </tr>
 </table>
 
-<h2 id="license">🧾 Licença</h2>
+<h2 id="license">🧾 License</h2>
 
-Este software está disponível sob as seguintes licenças:
+This software is available under the following licenses:
 
 - [MIT](LICENSE)
